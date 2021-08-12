@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.Phone_Call_H"
+    android:orientation="vertical"
+    android:layout_marginTop="20dp"
+    android:padding="20dp">
+    
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="You just made a call to central health services for a ambulance. Hope everything gets better!"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:textSize="25sp"
+        />
+
+
+
+</LinearLayout>
